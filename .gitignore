@@ -24,3 +24,5 @@ pnpm-lock.yaml
 
 # jetbrains setting folder
 .idea/
+
+.vscode/
